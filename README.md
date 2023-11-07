@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaizon2000
 - 👀 I’m interested in Front-end, UI/UX, and creating games
-- 🌱 I’m currently learning Android Studio & Visual Studio
+- 🌱 I’m currently learning Game Development
 <!---- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me  --->
 
